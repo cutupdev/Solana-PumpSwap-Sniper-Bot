@@ -1,8 +1,2 @@
-# Solana pumpfun(pump.fun) AMM sniper
-
-Snipe newly migrated tokens to pumpfun(pump.fun) AMM
-
-
-> Telegram: https://t.me/microgift88
-> 
-> Discord: https://discord.com/users/1074514238325927956
+# Solana pumpSwap sniper bot
+This bot buy immediately newly migrated tokens from pumpfun to pumpSwap, and also implemented own sell logic. This is for giving basic understanding about pumpSwap and sniper bot, so feel free to reach out of me if you want full script[Telegram: https://t.me/DevCutup, Whatsapp: https://wa.me/13137423660].

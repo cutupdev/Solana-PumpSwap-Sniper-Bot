@@ -1,6 +1,6 @@
 {
-  "name": "solana-sniper-bot",
-  "author": "microgift",
+  "name": "pumpswap-sniper-bot",
+  "author": "cutupdev",
   "scripts": {
     "start": "ts-node index.ts",
     "test": "ts-node bot.ts",
